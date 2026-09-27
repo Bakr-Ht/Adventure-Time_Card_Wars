@@ -1,0 +1,365 @@
+{
+  "generatedBy": "tools/generate-art.mjs",
+  "assets": [
+    {
+      "path": "assets/cards/cool-dog.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/sharpshooter-squire.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/plains-pup.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/earling-swarm.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/earling.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/heroic-paladin.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/blue-colossus.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/bluebell-medic.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/bog-hopper.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/mud-golem.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/rainbow-wisp.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/candy-butler.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/husker-knight.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/corn-ronin.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/kernel-kid.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/popcorn-buddy.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/field-scarecrow.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/stretchy-mastiff.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/cornzilla.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/popcorn-pixie.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/nice-nurse.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/snuggle-bear.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/blue-bastion.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/sword-rack.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/lookout-tower.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/tree-fort.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/swamp-shrine.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/corn-silo.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/cob-catapult.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/barn-of-plenty.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/nice-gazebo.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/hero-strike.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/rally-cry.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/rousing-tale.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/landslide.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/frost-snap.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/demolish.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/bacon-pancakes.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/stretch-slam.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/corn-storm.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/sandwich-time.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/stretchy-shuffle.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/cards/sour-candy.svg",
+      "kind": "card-art",
+      "size": "400x300",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/heroes/finn.svg",
+      "kind": "hero-portrait",
+      "size": "512x512",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/heroes/jake.svg",
+      "kind": "hero-portrait",
+      "size": "512x512",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/landscapes/blue-plains.svg",
+      "kind": "lane-backdrop",
+      "size": "480x300",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/landscapes/corn-fields.svg",
+      "kind": "lane-backdrop",
+      "size": "480x300",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/landscapes/useless-swamp.svg",
+      "kind": "lane-backdrop",
+      "size": "480x300",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/landscapes/nice-lands.svg",
+      "kind": "lane-backdrop",
+      "size": "480x300",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/ui/glyph-blue-plains.svg",
+      "kind": "faction-glyph",
+      "size": "128x128",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/ui/glyph-corn-fields.svg",
+      "kind": "faction-glyph",
+      "size": "128x128",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/ui/glyph-useless-swamp.svg",
+      "kind": "faction-glyph",
+      "size": "128x128",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/ui/glyph-nice-lands.svg",
+      "kind": "faction-glyph",
+      "size": "128x128",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/ui/glyph-rainbow.svg",
+      "kind": "faction-glyph",
+      "size": "128x128",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/ui/card-back.svg",
+      "kind": "card-back",
+      "size": "300x420",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/backgrounds/menu.svg",
+      "kind": "background",
+      "size": "1600x900",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/backgrounds/table.svg",
+      "kind": "tile",
+      "size": "256x256",
+      "anchor": "top-left"
+    },
+    {
+      "path": "assets/fx/spark.svg",
+      "kind": "particle",
+      "size": "32x32",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/fx/star.svg",
+      "kind": "particle",
+      "size": "32x32",
+      "anchor": "center"
+    },
+    {
+      "path": "assets/fx/puff.svg",
+      "kind": "particle",
+      "size": "32x32",
+      "anchor": "center"
+    }
+  ]
+}
