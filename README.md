@@ -55,6 +55,8 @@ The full rules, including the deliberate simplifications of the tabletop game, a
 
 ## BMO's Game Shelf (game library page)
 
+![BMO's Game Shelf](docs/screenshots/library.png)
+
 A second page, `library.html` (`npm run dev` → http://127.0.0.1:5173/library.html), is a personal game library set in the same world. BMO is the frame: pick a cartridge from the shelf and it slots into BMO, whose screen becomes the detail and editing view.
 
 - Search (press `/`), filter by shelf (Playing, Up next, Finished, Wishlist) and genre, sort by date added, title, hearts, hours or release year.
