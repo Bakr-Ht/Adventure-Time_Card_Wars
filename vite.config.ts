@@ -12,6 +12,10 @@ export default defineConfig({
     target: 'es2022',
     chunkSizeWarningLimit: 1600,
     rollupOptions: {
+      input: {
+        main: fileURLToPath(new URL('./index.html', import.meta.url)),
+        library: fileURLToPath(new URL('./library.html', import.meta.url)),
+      },
       output: {
         manualChunks: (id) => (id.includes('node_modules/phaser') ? 'phaser' : undefined),
       },

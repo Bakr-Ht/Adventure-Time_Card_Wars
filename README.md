@@ -53,6 +53,18 @@ Each player has **25 HP**, four landscapes (one per lane), a 40-card deck and a 
 
 The full rules, including the deliberate simplifications of the tabletop game, are in [docs/gameplay-rules.md](docs/gameplay-rules.md).
 
+## BMO's Game Shelf (game library page)
+
+A second page, `library.html` (`npm run dev` → http://127.0.0.1:5173/library.html), is a personal game library set in the same world. BMO is the frame: pick a cartridge from the shelf and it slots into BMO, whose screen becomes the detail and editing view.
+
+- Search (press `/`), filter by shelf (Playing, Up next, Finished, Wishlist) and genre, sort by date added, title, hearts, hours or release year.
+- Per game: change its shelf, rate 1–5 hearts, log hours, keep notes. Card Wars launches straight from its cartridge.
+- BMO's D-pad steps through the shelf; the red button has BMO pick your next game from Up next (then the wishlist).
+- Add and edit games in a form dialog, remove with undo, export and import the shelf as JSON.
+- Everything is stored in `localStorage` (`bmo-shelf/v1`). Imports are treated as untrusted: every field is type-checked and length-bounded, and launch links are dropped unless they point at the bundled game.
+
+Code: `src/library/store.ts` (pure data, filtering and sanitising, unit-tested in `tests/unit/library.test.ts`) and `src/library/main.ts` (DOM, no framework; user text only ever goes through text nodes). Browser tests: `tests/e2e/library.spec.ts`.
+
 ## Architecture at a glance
 
 ```
