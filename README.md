@@ -67,6 +67,16 @@ A second page, `library.html` (`npm run dev` → http://127.0.0.1:5173/library.h
 
 Code: `src/library/store.ts` (pure data, filtering and sanitising, unit-tested in `tests/unit/library.test.ts`) and `src/library/main.ts` (DOM, no framework; user text only ever goes through text nodes). Browser tests: `tests/e2e/library.spec.ts`.
 
+## Hosting on GitHub Pages
+
+`.github/workflows/deploy-pages.yml` runs the unit tests, builds `dist/` and publishes it on every push to `main`.
+
+1. In the repo on GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions** (one time).
+2. Merge to `main` (or run the workflow by hand from the **Actions** tab).
+3. The site is served at `https://<owner>.github.io/<repo>/`: the game at the root, the library at `library.html`.
+
+`vite.config.ts` uses `base: './'`, so every asset path is relative and the build works under the `/<repo>/` sub-path without changes.
+
 ## Architecture at a glance
 
 ```
